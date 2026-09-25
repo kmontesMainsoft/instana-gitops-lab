@@ -104,6 +104,7 @@ com.instana.plugin.host:
   tags:
     - 'ambiente=dev'
     - 'prueba=git'
+    - 'mision=cumplida'
 #  filesystems:
 #    - 'server:/usr/local/pub'
 #    - 'tmpfs:/mount/point/path'
@@ -139,7 +140,7 @@ com.instana.plugin.host:
 # Hardware & Zone
 com.instana.plugin.generic.hardware:
   enabled: true # disabled by default
-  availability-zone: 'git labos'
+  availability-zone: 'git labos prueba'
 
 # AWS Services
 # Monitoring of all AWS Service are enabled by default except for AWS XRay.
