@@ -105,6 +105,7 @@ com.instana.plugin.host:
     - 'ambiente=dev'
     - 'prueba=git'
     - 'mision=cumplida'
+    - 'hola=quetal'
 #  filesystems:
 #    - 'server:/usr/local/pub'
 #    - 'tmpfs:/mount/point/path'
