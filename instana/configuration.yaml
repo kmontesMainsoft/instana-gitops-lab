@@ -103,10 +103,6 @@ com.instana.plugin.host:
 #  poll_rate: 1 # values are in seconds.
   tags:
     - 'ambiente=dev'
-    - 'prueba=git'
-    - 'mision=cumplida'
-    - 'hola=quetal'
-    - 'segundo=intento'
 #  filesystems:
 #    - 'server:/usr/local/pub'
 #    - 'tmpfs:/mount/point/path'
