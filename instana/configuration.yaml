@@ -106,6 +106,7 @@ com.instana.plugin.host:
     - 'prueba=git'
     - 'mision=cumplida'
     - 'hola=quetal'
+    - 'segundo=intento'
 #  filesystems:
 #    - 'server:/usr/local/pub'
 #    - 'tmpfs:/mount/point/path'
